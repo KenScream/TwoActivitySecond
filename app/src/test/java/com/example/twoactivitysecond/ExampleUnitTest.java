@@ -1,4 +1,4 @@
-package com.example.prak2;
+package com.example.twoactivitysecond;
 
 import org.junit.Test;
 
